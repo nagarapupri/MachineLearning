@@ -1,4 +1,4 @@
-# MachineLearning
+# FaceRecognition
 Project Overview:
 
 Objective: Create a Gender Classification Model and integrate to Flask App
